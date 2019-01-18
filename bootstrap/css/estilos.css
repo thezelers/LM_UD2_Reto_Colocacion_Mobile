@@ -1,0 +1,20 @@
+.container .row{
+  border: solid darkgrey 3px;
+  padding: 5%;
+  margin: 3%;
+  text-align: center;
+
+}
+.col-12{
+  border: solid darkgrey 3px;
+  padding: 5%;
+  margin: 3%;
+}
+.container{
+  border: solid darkgrey 3px;
+
+}
+h2{
+  text-align: center;
+
+}
